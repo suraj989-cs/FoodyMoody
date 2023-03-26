@@ -654,6 +654,7 @@ header .icons #menu-bars {
     }
 
     header {
+        position: absolute;
         padding: 1rem 2rem;
     }
 
@@ -671,6 +672,10 @@ header .icons #menu-bars {
 
     html {
         font-size: 50%;
+    }
+
+    header{
+        position: absolute;
     }
 
     header .icons #menu-bars {
@@ -699,7 +704,6 @@ header .icons #menu-bars {
         margin: 1rem;
         font-size: 2rem;
         background: #eee;
-
     }
 
     #search-form #search-box {
@@ -726,6 +730,10 @@ header .icons #menu-bars {
 
     html {
         font-size: 50%;
+    }
+
+    header{
+        position: absolute;
     }
 
     .dishes .box-container .box img {
